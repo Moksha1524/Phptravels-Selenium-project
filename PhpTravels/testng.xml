@@ -4,7 +4,6 @@
   <test name="Test">
     <classes>
       <class name="resources.Base"/>
-      <class name="Cucumber1.PhpTravels.AppTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
